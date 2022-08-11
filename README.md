@@ -1,7 +1,7 @@
 <html>
   <h1>Hi Dev! I'm &lt;André Arruda&gt;</h1>
   <hr>
-  <h3> 👧: &nbsp;About Me </h3>
+  <h3> 🤓: &nbsp;About Me </h3>
 
  <br>
   - 💼 &nbsp; Working  on <a  target="_blank"  href="https://www.todimo.com.br/">Todimo</a>
